@@ -1,0 +1,21 @@
+//external CSS
+p {
+  color: red;
+  font-size: 20px;
+  font-style: italic;
+}
+
+
+//html file 
+<!DOCTYPE html>
+<head>
+   <title>Contact sca</title> 
+   <link rel="stylesheet" type="text/css" href="mystyle.css" />
+</head>
+<body>
+    <p> You can contact us at mishalturkane@gmail.com </p>
+    <p>  You can aslo call 6265581858</p>
+    
+</body>
+</html>
+
