@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<head>
+   <title> About SCA </title> 
+
+   <style>
+            p{
+                color:blue;
+            }
+   </style>
+</head>
+<body>
+    <p> SCA is best intsiitute in the bhopal founded in 1998 in mAdhya pradhesh </p>
+    <p> We ofer course cutting edge technologies like react , java javascript ,python cpp</p>
+</body>
+</html>
